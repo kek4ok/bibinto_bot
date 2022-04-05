@@ -1,5 +1,5 @@
 # bibinto_bot
 Simple bot for @bibinto
 
-## Create you application there
+## Create your application there
 https://my.telegram.org/
